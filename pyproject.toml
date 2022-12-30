@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "candela"
+version = "1.0.1"
+authors = [
+  { name="Jaroslav Hlinka", email="hlinka@cs.cas.cz" },
+  { name="Anna Pidnebesna", email="pidnebesna@cs.cas.cz" },
+  { name="Giulio Tani Raffaelli", email="tani@cs.cas.cz" },
+]
+description = "The Cobra group ANomaly DEtection LibrAry"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: GNU Affero General Public License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/david-hartman/crowd_dynamic_analysis"
+"Bug Tracker" = "https://github.com/david-hartman/crowd_dynamic_analysis/issues"
