@@ -9,17 +9,17 @@ Future versions will include further modules, as well as additional parameter op
 
 
 ## Requirements
-Recommended versions: Python >= 3.9.15, scikit-learn >= 1.1.3. Other requirements can be found in `requirements.txt`.
+Recommended versions: Python >= 3.9.15, scikit-learn >= 1.1.3. Other requirements can be found in [`requirements.txt`](requirements.txt).
 
 ## Usage
 
-Download `requirements.txt` the wheel or the dist files from the `dist/` folder, we suggest creating a new conda environment. In case you choose the wheel, on linux we suggest:
+Download [`requirements.txt`](requirements.txt) the wheel or the dist files from the `dist/` folder, we suggest creating a new conda environment. In case you choose the wheel, on linux we suggest:
 ``` bash
 > conda create -n candela --file requirements.txt
 > conda activate candela
 > pip install candela-1.0.1-py3-none-any.whl
 ``` 
-For examples of using the toolbox, see the [showcase] (showcase.ipynb). Documentation can be found in `doc/` folder.
+For examples of using the toolbox, see the [showcase](showcase.ipynb). Documentation can be found in [`doc.pdf`](doc/doc.pdf).
 
 ## Authors
 
