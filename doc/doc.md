@@ -13,7 +13,7 @@ links-as-notes: true
 ...
 
 
-    
+*****    
 # Module `candela` {#id}
 
 The Cobra ANomaly DEtection LibrAry for anomaly detection in timeseries.
