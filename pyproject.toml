@@ -20,5 +20,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/david-hartman/crowd_dynamic_analysis"
-"Bug Tracker" = "https://github.com/david-hartman/crowd_dynamic_analysis/issues"
+"Homepage" = "https://github.com/cobragroup/candela"
+"Bug Tracker" = "https://github.com/cobragroup/candela/issues"
